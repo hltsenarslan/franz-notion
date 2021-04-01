@@ -1,5 +1,5 @@
-# Zoho Mail for Franz
-This is the official Franz recipe for Zoho
+# meetfranz - Notion Recipe
 
-### How to create your own Franz recipes:
-* [Read the documentation](https://github.com/abacao/meetfranz)
+This is an unofficial Notion recipe for Franz.
+
+For installation, visit the [Franz documentation.](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#installation)
