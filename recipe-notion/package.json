@@ -1,0 +1,14 @@
+{
+  "id": "Notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion",
+  "main": "index.js",
+  "author": "Halit ŞENARSLAN <halitsenarslan@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/hltsenarslan/meetfranz/recipe-franz",
+  "config": {
+    "serviceURL": "https://www.notion.so/login",
+    "hasNotificationSound": true
+  }
+}
